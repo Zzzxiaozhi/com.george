@@ -1,0 +1,13 @@
+package com.xq.api;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class XqApiApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(XqApiApplication.class, args);
+    }
+
+}
